@@ -1,0 +1,7 @@
+/* OPTIONAL : add in global css */
+
+.magic-pass-shadow {
+  box-shadow:
+    inset -1.5551px -1.86611px 4.35427px rgba(255, 255, 255, 0.25),
+    inset 1.5551px 1.5551px 4.66529px rgba(255, 255, 255, 0.25);
+}
